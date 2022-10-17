@@ -2,7 +2,7 @@
 
 This a simple 2D simulation of an ideal gas system which shows the expected and actual values of different quantities of a gaseous system such as average velocity and pressure. 
 
-<img src="https://user-images.githubusercontent.com/96186288/196238548-0426fc16-3732-47e4-b4fe-fa374d7e7fb1.png" width="600">
+<img src="https://user-images.githubusercontent.com/96186288/196238548-0426fc16-3732-47e4-b4fe-fa374d7e7fb1.png" width="800">
 
 The gas constant is set to 0.00831 and the mass of each particle and volume of the system are both set to 1. This simulation gives a qualitiative idea of the behaviour of an ideal gas especially under the influence of gravity.
 
