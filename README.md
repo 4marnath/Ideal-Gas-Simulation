@@ -1,11 +1,9 @@
 # Ideal-Gas-Simulation
 
 This a simple 2D simulation of an ideal gas system which shows the expected and actual values of different quantities of a gaseous system such as average velocity and pressure. 
+![gas1small](https://user-images.githubusercontent.com/96186288/196238151-9faeb09e-480c-465e-b5b2-6e718d0b467c.png)
 
 
-
-
-![gas1](https://user-images.githubusercontent.com/96186288/196235856-c79b89c0-e141-433c-88ba-61effe5a7c32.png | width = 100)
 
 The gas constant is set to 0.00831 and the mass of each particle and volume of the system are both set to 1. This simulation gives a qualitiative idea of the behaviour of an ideal gas especially under the influence of gravity.
 
