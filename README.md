@@ -1,6 +1,6 @@
 # Ideal Gas Simulation
 
-This a simple 2D simulation of an ideal gas system which shows the expected and actual values of different quantities of a gaseous system such as average velocity and pressure. 
+This a simple 2D simulation of an ideal gas system which shows the expected and actual values of different quantities such as average velocity and pressure. 
 
 <img src="https://user-images.githubusercontent.com/96186288/196239194-82be3cfd-b739-4567-8bcf-a7ba9f0b5bd6.png" width="800">
 
